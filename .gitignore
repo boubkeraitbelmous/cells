@@ -1,0 +1,10 @@
+# local torch install used to run the experiment
+.pylibs/
+
+# MNIST download
+data/
+
+# python caches / sandbox leftovers
+__pycache__/
+*.pyc
+.tmp/
